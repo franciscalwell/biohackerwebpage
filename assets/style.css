@@ -1,0 +1,63 @@
+@import url(//db.onlinewebfonts.com/c/bf72def595f73ba2513f4beb4bde70bf?family=Terminator+Real+NFI);
+
+@font-face {
+    font-family: "Terminator Real NFI";
+    src: url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.eot");
+    src: url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.woff") format("woff"), url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/bf72def595f73ba2513f4beb4bde70bf.svg#Terminator Real NFI") format("svg");
+}
+
+
+* {
+    margin: 0;
+    text-align: center;
+    font-family: Terminator Real NFI;
+
+}
+
+body {
+   
+    background-image: url(images/binery.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.heroimg {
+    height: 888PX;
+    width: 1358px;
+   border: 4px solid blue;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat center center;
+    background-size: 100%;
+    opacity: 0.9;
+    margin-left: 321px;
+    margin-top: 66px;
+    display: block;
+
+}
+
+
+
+.logo {
+    height: 666px;
+    width: 999px;
+    margin-top: 123px;
+    border-radius: 55%;
+    opacity: 0.5
+}
+
+
+h1 {
+    font-size: 33px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px #FF0000;
+    opacity: 0.5;
+    letter-spacing: 10px;
+    text-shadow: 5px;
+    text-decoration: underline;
+    text-decoration-color: floralwhite;
+    padding-top: 33px;
+
+
+}
+
